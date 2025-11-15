@@ -23,9 +23,9 @@
 </div>
 
 
-- 🔭 I’m currently working on **E-GAN (Evolutionary Generative Technologies)**
+- 🔭 I’m currently working on **Firmware And Emergining Generative Technologies**
 
-- 🌱 I’m currently learning **Parallel Computation**
+- 🌱 I’m currently learning **Automation**
 
 - 👨‍💻 Know more about my projects & experiences at https://github.com/sipali-illa 
 
