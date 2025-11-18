@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **Automation**
 
-- 👨‍💻 Know more about my projects & experiences at https://github.com/sipali-illa 
+- 👨‍💻 Know more about my projects & experiences at github/sipali-illa 
 
 - 💬 Ask me about **Embedded Systems, Competitive Programming, Computer Architecture, Machine Learning or Linux**
 
-- 📫 How to reach me **linkedin.com/in/sipali-illa**
+- 📫 How to reach me **github/sipali-illa**
 
 
 **Languages and Tools:**  
